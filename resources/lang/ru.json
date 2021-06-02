@@ -13,5 +13,8 @@
     "Are you sure?" : "Вы уверенны?",
     "Lang ru" : "РУС",
     "Lang en" : "ENG",
-    "Download file" : "Скачать файл"
+    "Download file" : "Скачать файл",
+    "Have a good day" : "Доброго времени суток",
+    "The task :title changed" : "Задача :title была изменена",
+    "Warning. Project #:project_id changed status of task :title." :  "Внимание. Проект #:project_id сменил статус задачи :title"
 }
