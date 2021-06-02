@@ -1,0 +1,17 @@
+{
+    "Project task status 1" : "Статус: ЗАВЕРШЕН",
+    "Project task status 2" : "Статус: В ПРОЦЕССЕ",
+    "Project task status 3" : "Статус: НОВЫЙ",
+    "Title" : "Заголовок",
+    "Description" : "Описание",
+    "Save" : "Сохранить",
+    "Status"  : "Статус",
+    "Project"  : "Проект",
+    "Author" : "Автор",
+    "Created" : "Создан",
+    "Tasks" : "Задачи",
+    "Are you sure?" : "Вы уверенны?",
+    "Lang ru" : "РУС",
+    "Lang en" : "ENG",
+    "Download file" : "Скачать файл"
+}
